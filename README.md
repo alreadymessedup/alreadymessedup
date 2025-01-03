@@ -1,7 +1,7 @@
 # Hi there, I'm Riddhima! 👋
 
 ### 💻 About Me:
-- 🌱 I'm currently pursuing a **B.Tech** degree.
+- 🌱 I'm currently pursuing my **B.Tech** degree.
 - 🎨 Skilled in **web development** with expertise in **frontend development**.
 - 💡 Fascinated by **AI and Machine Learning**.
 - 👩‍💻 Currently learning **Data Structures & Algorithms (C++)** and exploring **backend development** with **Node.js** and **Express.js**.
@@ -15,7 +15,7 @@
 
 
 ### 🚀 Tech Stack:
-- **Languages**: Python, C/C++, JavaScript
+- **Languages**: Python, C/C++, JavaScript, SQL
 - **Frontend**: HTML, CSS, Bootstrap, jQuery , EJS
 - **Backend**: Node.js, Express.js , Postman, Middlewares
 - **Version Control**: Git, GitHub
