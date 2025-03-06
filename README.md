@@ -17,7 +17,7 @@
 ### 🚀 Tech Stack:
 - **Languages**: Python, C/C++, JavaScript, SQL
 - **Frontend**: HTML, CSS, Bootstrap, jQuery , EJS
-- **Backend**: Node.js, Express.js , Postman, Middlewares
+- **Backend**: Node.js, Express.js , Postman, Mongodb
 - **Version Control**: Git, GitHub
 
 
